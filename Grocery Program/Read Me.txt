@@ -1,0 +1,5 @@
+This is the Corner Grocery project that is designed to sort through recent purchase data in order to prioritize the locations of high demand items.
+I think the menu makes it easy for the user to navigate to the information they are looking for.
+Overall the code could probably use a few tweaks to sort the data in different ways or display it in more informative graphics.
+This program ended up being relatively short and simple, which makes it easy to read through and understand what it is doing and how it is doing it.
+I found the skills developed while making this program to be transferable to my current job for use in sorting through and organizing inventory data within a facility.
